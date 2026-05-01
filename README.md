@@ -1,113 +1,96 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=AZEEMA%20SHAHEEN&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Science%20Undergraduate&descAlignY=55&descColor=a8b2d8)
+# Hi, I'm Azeema Shaheen 👋
 
-</div>
+### Frontend Developer | Data Science Undergraduate | Oracle APEX Developer
 
-<div align="center">
+I build responsive web applications, clean user interfaces, and data-driven systems using React, Firebase, Oracle APEX, SQL, and PL/SQL.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeema-shaheen-2b2930273/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azeemashaheen136@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azeemaShaheen)
-![Profile Views](https://komarev.com/ghpvc/?username=azeemaShaheen&style=for-the-badge&color=e94560)
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-> *Data Science undergraduate passionate about building modern, responsive web experiences and data-driven applications.*
-
-- 🎓 Studying **Bachelor of Computer Science** at COMSATS University Islamabad (2022–2026)
-- 📜 Completed **Frontend Development Diploma** at Institute of Emerging Careers
-- 💼 Former **Software Developer Intern** — worked with Oracle APEX, SQL & PL/SQL
-- 🏗️ Currently building a **Heavy Lift Marketplace** rental system as my final year project
-- 🤖 Passionate about **Machine Learning** and **Front-End Development**
-- 📍 Based in **Pakistan**
-
----
-
-## 🛠️ Technical Skills
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Database & Tools
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Data Science
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6C00?style=for-the-badge&logoColor=white)
-
----
-
-## 🚀 Portfolio Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [🛒 PickBazar E-Commerce App](https://github.com/azeemaShaheen/pickbazar-app-using-react) | Responsive e-commerce app with cart management, Firebase Auth & Redux Toolkit | React, Redux, Firebase, JavaScript |
-| [🏠 Estate CRM](https://github.com/azeemaShaheen/FinalProject-Estate-CRM-) | Multi-role Real Estate CRM with Admin, Seller & Applicant dashboards | React, Firebase, Role-based Auth |
-| [🌤️ Weather App](https://github.com/azeemaShaheen/App-Weather-using-react) | Real-time weather app using OpenWeather API, deployed on Vercel | React, OpenWeather API, CSS |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Azeema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemaShaheen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemaShaheen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azeemaShaheen&theme=tokyonight&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azeema-shaheen-2b2930273/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:azeemashaheen136@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-azeemaShaheen-black?style=for-the-badge&logo=github)](https://github.com/azeemaShaheen)
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## About Me
 
-- 📋 **Jira Scrum Kanban for Agile** — Udemy
-- 🎯 **Project Management** — Project Management Institution
-- 🤖 **GenAI for Project Managers** — Project Management Institution
+I am a Computer Science student at COMSATS University Islamabad with hands-on experience in frontend development, Firebase-based applications, Oracle APEX, SQL, and PL/SQL.
+
+I enjoy building practical applications with clean UI, role-based systems, dashboards, authentication flows, and database-driven features. My current Final Year Project is **HeavyLift Marketplace**, a web-based heavy machinery rental platform built using Oracle APEX and Oracle Database.
 
 ---
 
-## 🤝 Let's Connect
+## Technical Skills
+
+**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+**Backend & Database:** SQL, PL/SQL, Oracle Database, Oracle APEX, Firebase  
+**Programming:** Python, Java, C++  
+**Tools:** Git, GitHub, VS Code, Figma, Postman  
+**Data & Analytics:** Power BI, RapidMiner, basic Machine Learning concepts  
+
+---
+
+## Featured Projects
+
+| Project | Live Demo | Source Code | Tech Stack |
+|--------|-----------|-------------|------------|
+| PickBazar E-Commerce App | [Live](https://pickbazar-app-using-react.vercel.app) | [GitHub](https://github.com/azeemaShaheen/pickbazar-app-using-react) | React, Redux, Firebase |
+| Weather App | [Live](https://app-weather-using-react.vercel.app) | [GitHub](https://github.com/azeemaShaheen/App-Weather-using-react) | React, OpenWeather API, CSS |
+| Estate CRM | Coming Soon | [GitHub](https://github.com/azeemaShaheen/FinalProject-Estate-CRM-) | React, Firebase |
+| HeavyLift Marketplace | Coming Soon | Private/Academic Project | Oracle APEX, PL/SQL, Oracle DB |
+
+---
+
+## Project Highlights
+
+### PickBazar E-Commerce App
+A responsive e-commerce web application with Firebase authentication, product listing, cart management, and Redux Toolkit for scalable state handling.
+
+### Weather App
+A real-time weather application that fetches live weather data using OpenWeather API and displays temperature, humidity, and conditions through a clean React interface.
+
+### Estate CRM
+A real estate management system with role-based dashboards for Admin, Seller, and Applicant users. It includes authentication, routing, property management, and dashboard layouts.
+
+### HeavyLift Marketplace
+A Final Year Project developed as a heavy machinery rental platform. It includes provider and renter roles, machinery listings, booking, map-based search, messaging, payments, reviews, notifications, and admin management.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azeema-shaheen-2b2930273/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:azeemashaheen136@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/azeemaShaheen)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemaShaheen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemaShaheen&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## Certifications
+
+- Frontend Development Diploma — Institute of Emerging Careers  
+- Jira Scrum Kanban for Agile — Udemy  
+- Project Management — Project Management Institute  
+- GenAI for Project Managers — Project Management Institute  
+
+---
+
+## Let's Connect
+
+I am open to frontend development, Oracle APEX, database-driven applications, internships, and junior developer opportunities.
+
+📧 Email: azeemashaheen136@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/azeema-shaheen-2b2930273/
+
+---
+
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
+**“Build simple. Design clean. Improve constantly.”**
 
 </div>
