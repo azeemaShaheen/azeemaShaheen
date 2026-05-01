@@ -63,9 +63,9 @@ A Final Year Project developed as a heavy machinery rental platform. It includes
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemaShaheen&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemaShaheen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemaShaheen&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemaShaheen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8)
 
 </div>
 
