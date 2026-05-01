@@ -64,7 +64,7 @@ I enjoy building practical applications with clean UI, role-based systems, dashb
 |---------|-----------|-------------|------------|
 | 🛒 PickBazar E-Commerce App | [Live](https://pickbazar-app-using-react.vercel.app) | [GitHub](https://github.com/azeemaShaheen/pickbazar-app-using-react) | React · Redux · Firebase |
 | 🌤️ Weather App | [Live](https://app-weather-using-react.vercel.app) | [GitHub](https://github.com/azeemaShaheen/App-Weather-using-react) | React · OpenWeather API · CSS |
-| 🏠 Estate CRM | Coming Soon | [GitHub](https://github.com/azeemaShaheen/FinalProject-Estate-CRM-) | React · Firebase |
+| 🏠 Estate CRM | [Live](https://final-project-estate-crm.vercel.app) | [GitHub](https://github.com/azeemaShaheen/FinalProject-Estate-CRM-) | React · Firebase |
 | 🏗️ HeavyLift Marketplace | Coming Soon | Academic Project | Oracle APEX · PL/SQL · Oracle DB |
 
 ---
