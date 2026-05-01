@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cb4b16,50:b58900,100:268bd2&height=200&section=header&text=AZEEMA%20SHAHEEN&fontSize=50&fontColor=fdf6e3&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Science%20Undergraduate&descAlignY=55&descColor=fdf6e3)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:cb4b16,50:b58900,100:268bd2&height=200&section=header&text=AZEEMA%20SHAHEEN&fontSize=50&fontColor=fdf6e3&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Science%20Undergraduate%20%7C%20Oracle%20APEX%20Developer&descAlignY=55&descColor=fdf6e3)
 
 <div align="center">
 
@@ -13,13 +13,13 @@
 
 ## 🌿 About Me
 
-> *"Data Science undergraduate passionate about building modern, responsive web experiences and data-driven applications."*
+I am a Computer Science student at **COMSATS University Islamabad** with hands-on experience in frontend development, Firebase-based applications, Oracle APEX, SQL, and PL/SQL.
+
+I enjoy building practical applications with clean UI, role-based systems, dashboards, authentication flows, and database-driven features. My current Final Year Project is **HeavyLift Marketplace** — a web-based heavy machinery rental platform built using Oracle APEX and Oracle Database.
 
 - 🎓 **BSc Computer Science** — COMSATS University Islamabad *(2022–2026)*
 - 📜 **Frontend Development Diploma** — Institute of Emerging Careers *(Nov 2025–Apr 2026)*
 - 💼 **Software Developer Intern** — Enterprise apps with Oracle APEX, SQL & PL/SQL *(Jun–Aug 2024)*
-- 🏗️ Currently building a **Heavy Lift Marketplace** rental system as my final year project
-- 🤖 Passionate about **Machine Learning** and **Front-End Development**
 - 📍 Based in **Pakistan**
 
 ---
@@ -39,30 +39,49 @@
 ![Python](https://img.shields.io/badge/Python-268bd2?style=flat-square&logo=python&logoColor=fdf6e3)
 ![Java](https://img.shields.io/badge/Java-cb4b16?style=flat-square&logo=openjdk&logoColor=fdf6e3)
 ![C++](https://img.shields.io/badge/C++-657b83?style=flat-square&logo=c%2B%2B&logoColor=fdf6e3)
-![Node.js](https://img.shields.io/badge/Node.js-859900?style=flat-square&logo=node.js&logoColor=fdf6e3)
 ![SQL](https://img.shields.io/badge/SQL-268bd2?style=flat-square&logo=mysql&logoColor=fdf6e3)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-cb4b16?style=flat-square&logo=oracle&logoColor=fdf6e3)
 
 ### 🗄️ Database & Tools
-![Oracle](https://img.shields.io/badge/Oracle-cb4b16?style=flat-square&logo=oracle&logoColor=fdf6e3)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-cb4b16?style=flat-square&logo=oracle&logoColor=fdf6e3)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-cb4b16?style=flat-square&logo=oracle&logoColor=fdf6e3)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-268bd2?style=flat-square&logo=postgresql&logoColor=fdf6e3)
 ![Firebase](https://img.shields.io/badge/Firebase-b58900?style=flat-square&logo=firebase&logoColor=fdf6e3)
+![Git](https://img.shields.io/badge/Git-cb4b16?style=flat-square&logo=git&logoColor=fdf6e3)
 ![VS Code](https://img.shields.io/badge/VSCode-268bd2?style=flat-square&logo=visual-studio-code&logoColor=fdf6e3)
 ![Figma](https://img.shields.io/badge/Figma-cb4b16?style=flat-square&logo=figma&logoColor=fdf6e3)
-![Git](https://img.shields.io/badge/Git-cb4b16?style=flat-square&logo=git&logoColor=fdf6e3)
+![Postman](https://img.shields.io/badge/Postman-b58900?style=flat-square&logo=postman&logoColor=fdf6e3)
 
-### 📊 Data Science
+### 📊 Data Science & Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-b58900?style=flat-square&logo=powerbi&logoColor=fdf6e3)
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-cb4b16?style=flat-square&logoColor=fdf6e3)
 
 ---
 
-## 🚀 Portfolio Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [🛒 PickBazar E-Commerce](https://github.com/azeemaShaheen/pickbazar-app-using-react) | Responsive e-commerce app with cart management, Firebase Auth & Redux Toolkit | React · Redux · Firebase |
-| [🏠 Estate CRM](https://github.com/azeemaShaheen/FinalProject-Estate-CRM-) | Multi-role Real Estate CRM with Admin, Seller & Applicant dashboards | React · Firebase · Role-based Auth |
-| [🌤️ Weather App](https://github.com/azeemaShaheen/App-Weather-using-react) | Real-time weather app using OpenWeather API, deployed on Vercel | React · OpenWeather API · CSS |
+| Project | Live Demo | Source Code | Tech Stack |
+|---------|-----------|-------------|------------|
+| 🛒 PickBazar E-Commerce App | [Live](https://pickbazar-app-using-react.vercel.app) | [GitHub](https://github.com/azeemaShaheen/pickbazar-app-using-react) | React · Redux · Firebase |
+| 🌤️ Weather App | [Live](https://app-weather-using-react.vercel.app) | [GitHub](https://github.com/azeemaShaheen/App-Weather-using-react) | React · OpenWeather API · CSS |
+| 🏠 Estate CRM | Coming Soon | [GitHub](https://github.com/azeemaShaheen/FinalProject-Estate-CRM-) | React · Firebase |
+| 🏗️ HeavyLift Marketplace | Coming Soon | Academic Project | Oracle APEX · PL/SQL · Oracle DB |
+
+---
+
+## 📌 Project Highlights
+
+### 🛒 PickBazar E-Commerce App
+A responsive e-commerce web application with Firebase authentication, product listing, cart management, and Redux Toolkit for scalable state handling. Features full authentication flow (Login, Register, Forgot Password) with form validation via React Hook Form & Yup, plus dynamic category filtering via external API.
+
+### 🌤️ Weather App
+A real-time weather application that fetches live weather data using the OpenWeather API and displays temperature, humidity, and conditions through a clean React interface. Deployed on Vercel.
+
+### 🏠 Estate CRM — Real Estate Management System
+A real estate management system with role-based dashboards for **Admin**, **Seller**, and **Applicant** users. Features Firebase Authentication, protected routing, property management, applicant request forms with amenities and budget filtering, and a full Admin panel with activity tracking.
+
+### 🏗️ HeavyLift Marketplace *(Final Year Project)*
+A heavy machinery rental platform with provider and renter roles, machinery listings, booking system, map-based search, messaging, payments, reviews, notifications, and admin management — built on Oracle APEX and Oracle Database.
 
 ---
 
@@ -82,6 +101,7 @@
 
 ## 🏆 Certifications
 
+- 📜 **Frontend Development Diploma** — Institute of Emerging Careers
 - 📋 **Jira Scrum Kanban for Agile** — Udemy
 - 🎯 **Project Management** — Project Management Institution
 - 🤖 **GenAI for Project Managers** — Project Management Institution
@@ -89,6 +109,8 @@
 ---
 
 ## 🤝 Let's Connect
+
+I am open to **frontend development**, **Oracle APEX**, **database-driven applications**, internships, and junior developer opportunities.
 
 <div align="center">
 
@@ -102,7 +124,7 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"Build simple. Design clean. Improve constantly."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:268bd2,50:b58900,100:cb4b16&height=100&section=footer)
 
