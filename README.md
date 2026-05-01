@@ -89,7 +89,7 @@ A heavy machinery rental platform with provider and renter roles, machinery list
 
 <div align="center">
 
-![Azeema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemaShaheen&show_icons=true&theme=solarized-light&hide_border=true&title_color=cb4b16&icon_color=b58900&text_color=657b83&bg_color=fdf6e3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemaShaheen&show_icons=true&theme=solarized-light&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemaShaheen&layout=compact&theme=solarized-light&hide_border=true&title_color=cb4b16&text_color=657b83&bg_color=fdf6e3)
 
